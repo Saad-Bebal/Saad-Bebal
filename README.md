@@ -1,93 +1,76 @@
 <h1 align="center">Hi 👋, I'm Saad Bebal</h1>
+<h3 align="center">MS Data Science @ DePaul University | Data Engineer & Data Scientist | Python, SQL, PySpark, AWS</h3>
 
-<p align="center">
-Data Engineer • Data Science Graduate Student @ DePaul University
-</p>
-
-<p align="center">
-Building scalable data pipelines, machine learning applications, and cloud-native solutions.
-</p>
-
-<p align="center">
-<a href="https://www.saadbebal.com">Portfolio</a> •
-<a href="https://linkedin.com/in/saad-bebal-a5a582268">LinkedIn</a> •
-<a href="mailto:saadbebal.work@gmail.com">Email</a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
-## About Me
+### 🚀 About Me
 
-I'm a Data Science graduate student at **DePaul University** with interests in **Data Engineering, Machine Learning, Cloud Computing, and AI-powered analytics**.
-
-I enjoy building production-ready applications that combine data pipelines, scalable cloud infrastructure, and intelligent models to solve real-world business problems.
-
----
-
-## Tech Stack
-
-**Languages**
-
-Python • SQL • R • Bash
-
-**Data Engineering**
-
-PySpark • Apache Spark • ETL • Data Pipelines
-
-**Machine Learning**
-
-Scikit-Learn • TensorFlow • NLP • Recommendation Systems • Time Series
-
-**Cloud**
-
-AWS (S3, EMR, EC2, Lambda) • Azure ML • GCP
-
-**Databases**
-
-PostgreSQL • Oracle • MongoDB • DynamoDB • Snowflake
-
-**Tools**
-
-Docker • GitHub Actions • Linux • Power BI • Tableau • Streamlit
+- 🎓 M.S. in Data Science at DePaul University, Chicago (Graduating Winter 2027)
+- 💼 IT Specialist at DePaul University — supporting systems and networks for students and staff
+- 📊 Experience building ETL pipelines, distributed data processing systems, and ML models with Python, SQL, PySpark, and AWS
+- ☁️ AWS Certified Data Engineer – Associate | AWS Machine Learning Foundations | Azure Data Scientist Associate (DP-100)
+- 🌐 Portfolio: **www.saadbebal.com**
+- 📫 Reach me at: **sbebal@depaul.edu**
 
 ---
 
-## Featured Projects
+### 🤝 Connect with Me
 
-### 🚀 ProAudit AI
-AI-powered audit and financial risk platform built with Python, Streamlit, Supabase, and OpenAI.
-
-### ⛽ FuelFindr
-Location-based fuel station discovery platform using Google Places API and cloud technologies.
-
-### 🚖 NYC Taxi Trip Duration Prediction
-Distributed machine learning pipeline using AWS EMR, PySpark, and Spark MLlib.
-
-### 🧠 MindMate
-Machine learning-powered mental health companion with hybrid recommendation systems.
+LinkedIn: [linkedin.com/in/saad-bebal-a5a582268](https://linkedin.com/in/saad-bebal-a5a582268)
 
 ---
 
-## Currently Exploring
+### 💼 Experience
 
-- Data Engineering
-- Apache Spark
-- AWS Data Engineering
-- Distributed Systems
-- MLOps
+**Information Technology Specialist** — DePaul University, Chicago, IL *(Sept 2025 – Present)*
+Manage 100+ service tickets weekly via ServiceNow, resolving hardware, software, and network issues, and document incidents to improve cross-team operational tracking.
 
----
+**Machine Learning Researcher** — Feynn Labs, Assam, India *(Aug 2024 – Nov 2024)*
+Developed a Mental Health Companion App using ML, boosting user engagement by 30% and reaching 5,000+ users; built data pipelines and predictive classification models in Python.
 
-## GitHub Stats
+**Data Analyst** — Codebond, Maharashtra, India *(May 2023 – Jun 2024)*
+Analyzed user behavior and platform trends for a 10,000+ user base, building dashboards and ETL workflows for weekly reporting using Python/SQL.
 
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saad-Bebal&show_icons=true&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Bebal&layout=compact&hide_border=true"/>
-
-</p>
+**Founder** — Leap Technology, Maharashtra, India *(Jun 2020 – Jul 2022)*
+Founded and led a 15+ member IT team serving 500+ clients, scaling operations to $10,000 in revenue while implementing security protocols to reduce network vulnerabilities.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
+### 🛠 Technical Stack
+
+**Languages:** Python, SQL, R, Bash
+**Data & ML:** Regression, Classification, Clustering, Time-Series Analysis, NLP, Anomaly Detection, Recommendation Systems
+**Frameworks:** Scikit-learn, PySpark (MLlib), TensorFlow, Streamlit, React.js, Prophet, ARIMA
+**Cloud & Big Data:** AWS (S3, EMR, EC2, Lambda), Azure ML, GCP, Distributed Data Processing
+**Databases:** PostgreSQL, Oracle, MongoDB, DynamoDB, Snowflake
+**Visualization & BI:** Power BI, Tableau, Streamlit
+**Tools:** Docker, GitHub Actions, Linux, REST APIs, Google Maps API
+
+---
+
+### 📌 Featured Projects
+
+**📊 ProAudit AI** — AI-powered audit and risk intelligence platform with GPT-powered anomaly detection and real-time analytics across financial datasets. Multi-tenant SaaS architecture with row-level security and role-based access control. *(Python, Streamlit, Supabase, OpenAI API, Pandas)* — *April 2026 – Present*
+
+**⛽ FuelFindr** — Location-based web app for discovering nearby fuel stations, with a predictive refueling system based on driving patterns and fuel usage. Live at [fuelfindr.app](https://fuelfindr.app/). *(JavaScript, Google Places API, Cloudflare, Data Analytics)* — *February 2026 – Present*
+
+**🚖 NYC Taxi Trip Duration Prediction** — Trip duration prediction model using PySpark MLlib on the NYC Taxi dataset, with distributed processing on AWS EMR and a cloud architecture spanning S3, EMR, and IAM. *(Python, PySpark, AWS EMR/S3/IAM)* — *March 2026*
+
+**🧠 MindMate — Mental Health Companion App** — ML-driven app for personalized mood tracking, using a hybrid collaborative + content-based recommendation system, with data privacy considerations for HIPAA/GDPR compliance. *(Python, Scikit-learn, NLP, Pandas, NumPy)* — *Aug 2024 – Dec 2024*
+
+---
+
+### 🎓 Leadership & Volunteering
+
+**Social Media Manager** — DePaul Cloud Organization *(Feb 2025 – Present)*
+Manage social media presence and promote technical events with speakers from Amazon, Google, and other Fortune 500 companies, driving increased student engagement.
+
+---
+
+### 📜 Certifications
+
+- AWS Certified Data Engineer – Associate
+- AWS Machine Learning Foundations
+- Azure Data Scientist Associate (DP-100)
